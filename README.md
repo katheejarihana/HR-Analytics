@@ -1,1 +1,1 @@
-This HR Analytics Dashboard gives a comprehensive view of employee data, allowing HR teams to analyze and make data-driven decisions regarding employee attrition by age,by education,by gender,by salary slab,by job role,by years at company and other vital metrics.
+This HR Analytics Dashboard gives a comprehensive view of employee data, allowing HR teams to analyze and make data-driven decisions regarding employee attrition by age,education,gender,salary slab,job role,years at company and other vital metrics.
